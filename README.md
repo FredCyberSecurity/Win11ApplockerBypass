@@ -18,7 +18,7 @@ Video Poc: https://www.youtube.com/watch?v=zuL7x4Wltto
 
 ## C:\Windows\CCM\Temp\ (On SCCM - Config manager managed devices)
 
-On config manager managed devices there is a folder: C:\Windows\CCM\Temp\ - Where the INTERACTIVE user group has read,execute and wrtie permission.
+On config manager managed devices there is a folder: C:\Windows\CCM\Temp\ - Where the INTERACTIVE user group has read,execute and write permission.
 
 Simply 
 
