@@ -11,7 +11,7 @@ Simply use the winget command to download and install whatever application you w
 2.  winget install  9P7KNL5RWT25 (This is sysinternals)
 3. Open folder: C:\Program Files\WindowsApps\Microsoft.SysinternalsSuite_2024.12.0.0_x64__8wekyb3d8bbwe\tools\
 
-The install folder for Winget applicatin is under "C:\Program Files\WindowsApps\****
+The install folder for Winget is under "C:\Program Files\WindowsApps\****
 And the default rule of applocker allows programs to be run from "C:\Program Files\"
 
 Video Poc: https://www.youtube.com/watch?v=zuL7x4Wltto
