@@ -30,4 +30,6 @@ Applocker allows execution from files under C:\Windows\ - And that's why this wi
 
 NB: Only works when the client is SCCM managed.
 
+Video Poc: https://www.youtube.com/watch?v=21ORd9hcANE 
+
 
